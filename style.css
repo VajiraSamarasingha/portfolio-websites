@@ -118,4 +118,17 @@ ul li a:hover{
 .icons ion-icon:hover{
     color: rgb(39,174,209);
 }
+/* Add this to your style.css */
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+}
+
+.footer-content {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
 
