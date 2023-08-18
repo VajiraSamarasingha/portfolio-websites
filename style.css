@@ -119,16 +119,38 @@ ul li a:hover{
     color: rgb(39,174,209);
 }
 /* Add this to your style.css */
+/* Add this to your style.css */
 footer {
-    background-color: #333;
+    background-color: #222;
     color: #fff;
     text-align: center;
-    padding: 10px 0;
+    padding: 40px 0;
 }
 
 .footer-content {
     max-width: 800px;
     margin: 0 auto;
 }
+
+.footer-content p {
+    font-size: 16px;
+    margin-bottom: 20px;
+}
+
+.footer-social {
+    margin-top: 20px;
+}
+
+.footer-social a {
+    color: #fff;
+    font-size: 24px;
+    margin: 0 15px;
+    transition: color 0.3s ease-in-out;
+}
+
+.footer-social a:hover {
+    color: #55acee; /* Twitter blue */
+}
+
 
 
